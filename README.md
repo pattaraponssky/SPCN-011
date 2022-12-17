@@ -35,6 +35,9 @@
 **ติดตั้ง QEMU Guest Agent**
 
  -Shutdown VM ไปแถบ Option ของ VM ตัวนั้น เลือกกด QEMU Guest Agent ปรับเป็น Enable
+ 
+ ![image](https://user-images.githubusercontent.com/113360594/208264111-ad3ff428-b9c2-4853-8ab4-61e7ec70123c.png)
+
 	
  -ใช้คำสั่ง
 	
@@ -47,6 +50,11 @@
 	 sudo systemctl status qemu-guest-agent
 	 
 ![image](https://user-images.githubusercontent.com/113360594/208263935-de4a9a28-7220-4dfa-9af0-c09068ad8c4c.png)
+
+-หน้า Summary จะมีเลข IPs เพิ่มมาหลังจากทำการเปิดใช้ QEMU Guest Agent
+
+![image](https://user-images.githubusercontent.com/113360594/208264127-97fb44ab-de80-421d-a654-d1d24c31ec7e.png)
+
 
 	   
 		 
