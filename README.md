@@ -63,6 +63,10 @@
 
 ![image](https://user-images.githubusercontent.com/113360594/208298593-e4d2d4bd-6755-4cff-92ac-a24dc027758e.png)
 
+-change hostname สำหรับ vm ใหม่
+	
+	sudo hostnamectl hostname *ชื่ออะไรก็ได้*
+
 -กดเลือกเครื่อง clone แล้วเปลี่ยน IP โดยใช้คำสั่ง
 
 	sudo -i
