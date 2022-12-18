@@ -93,6 +93,9 @@
  -สร้าง Create VM ตั้งค่าต่างๆตามที่กำหนด โดยจะใช้ระบบปฏิบัติการ kali-linux-2022-3-live-amd64
  -ตั้งชื่อ VM ตัวอักษรชื่อภาษาอังกฤษตัวเองอย่างน้อย 3 ตัว-otherOS-เลข VM ID
  
+ ![image](https://user-images.githubusercontent.com/113360594/208305938-6599b4ac-39c0-4bbd-80b1-a90f47736141.png)
+
+ 
  ![image](https://user-images.githubusercontent.com/113360594/208298965-b6ee4c1e-cb1a-47dd-854c-89f4c20cef2b.png)
 
 # create create container template
